@@ -43,6 +43,7 @@ body {
     left: 0;
     text-decoration: none;
     background-color: transparent;
+    
 }
 .container .text-wrapper-2 {
     position: absolute;
@@ -185,6 +186,10 @@ body {
     position: absolute;
     top: 773px;
     left: 222px;
+}
+
+.header {
+    color: bisque;
 }
 .container .frame {
     display: inline-flex;
